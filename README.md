@@ -68,6 +68,16 @@ The EnlightenGAN model has broad applicability in real-world scenarios where low
 These applications showcase the potential of GAN-based enhancement in both consumer and critical mission domains.
 
 
+## 👥 Contributors
+
+This project was completed as a team effort. We thank all members for their valuable collaboration throughout the development process.
+
+- Aishwarya M
+- [Abhijeet Rachagoudar]
+- [Ashutosh Gebise]
+- [LalitKumar Solapure]
+
+
 
 
 
