@@ -43,15 +43,15 @@ The model was rigorously evaluated using key image quality metrics:
 
 ## 📦 Setup & Requirements
 
-1.Clone the repository:
+#### 1. Clone the repository:
 
-  git clone https://github.com/AishwaryaM-10/EnlightenGAN-Deep-Light-Enhancement.git
+     git clone https://github.com/AishwaryaM-10/EnlightenGAN-Deep-Light-Enhancement.git
 
-  cd EnlightenGAN-Deep-Light-Enhancement
+     cd EnlightenGAN-Deep-Light-Enhancement
 
-2.Install dependencies:
+2. Install dependencies:
 
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
   ## 🌍 Real-World Applications
 
