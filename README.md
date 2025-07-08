@@ -43,19 +43,31 @@ The model was rigorously evaluated using key image quality metrics:
 
 ## 📦 Setup & Requirements
 
-Install dependencies:
+1.Clone the repository:
 
-pip install -r requirements.txt
+  git clone https://github.com/AishwaryaM-10/EnlightenGAN-Deep-Light-Enhancement.git
 
-Clone the repository:
+  cd EnlightenGAN-Deep-Light-Enhancement
 
-git clone https://github.com/AishwaryaM-10/EnlightenGAN-Deep-Light-Enhancement.git
+2.Install dependencies:
 
-cd EnlightenGAN-Deep-Light-Enhancement
+  pip install -r requirements.txt
 
-Launch Jupyter Notebook:
+  ## 🌍 Real-World Applications
 
-jupyter notebook
+The EnlightenGAN model has broad applicability in real-world scenarios where low-light image clarity is critical:
+
+- **Surveillance Systems:** Improve visibility in night-time CCTV footage for better threat detection.
+- **Autonomous Vehicles:** Enhance vision in dim environments to assist in safe navigation.
+- **Medical Imaging:** Brighten low-light images from diagnostic equipment without adding noise.
+- **Mobile Photography:** Integrate with smartphone cameras for night mode or low-light shooting.
+- **Satellite & Aerial Imaging:** Boost clarity in satellite or drone images captured under poor lighting.
+- **Underwater Exploration:** Enhance images taken in deep-sea missions where light is scarce.
+- **Disaster Response:** Improve imagery for search-and-rescue operations conducted in dark or smoke-filled environments.
+
+These applications showcase the potential of GAN-based enhancement in both consumer and critical mission domains.
+
+
 
 
 
