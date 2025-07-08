@@ -41,20 +41,21 @@ The model was rigorously evaluated using key image quality metrics:
 
 ---
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `gan_clean.ipynb` | Clean version of the notebook (no output cells) |
-| `gan_outputs.ipynb` | Contains only extracted outputs (for visual evaluation) |
-| `gan.ipynb` *(optional)* | Original full notebook with code and output cells |
-| `README.md` | This documentation file |
-
----
-
 ## 📦 Setup & Requirements
 
 Install dependencies:
 
 pip install -r requirements.txt
+
+Clone the repository:
+
+git clone https://github.com/AishwaryaM-10/EnlightenGAN-Deep-Light-Enhancement.git
+cd EnlightenGAN-Deep-Light-Enhancement
+
+Launch Jupyter Notebook:
+
+jupyter notebook
+
+
+
 
