@@ -49,11 +49,11 @@ The model was rigorously evaluated using key image quality metrics:
 
      cd EnlightenGAN-Deep-Light-Enhancement
 
-2. Install dependencies:
+#### 2. Install dependencies:
 
-   pip install -r requirements.txt
+     pip install -r requirements.txt
 
-  ## 🌍 Real-World Applications
+## 🌍 Real-World Applications
 
 The EnlightenGAN model has broad applicability in real-world scenarios where low-light image clarity is critical:
 
